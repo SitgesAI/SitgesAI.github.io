@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
-title: Aymara & AI Research Repository
-description: A collection of resources about Aymara language and its applications in AI
+title: SitgesAI Research
+description: AI Research & Development Projects
+baseurl: ""
+url: "https://sitgesai.github.io"
