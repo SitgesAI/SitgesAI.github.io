@@ -12,6 +12,7 @@ We are a research group focused on integrating artificial intelligence with indi
 ## Navigation
 
 - [Home](index.md)
+- [How AI Can Benefit from Aymara](ai-benefits.md)
 - [Bibliography](bibliography.md)
 - [Videos](videos.md)
 - [Projects](https://github.com/SitgesAI/julius-chat-system)
