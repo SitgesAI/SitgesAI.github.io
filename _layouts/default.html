@@ -20,6 +20,26 @@
             font-weight: bold;
         }
     </style>
+    <script>
+        // Redirect to preferred language
+        (function() {
+            if (window.location.pathname === '/') {
+                var userLang = navigator.language || navigator.userLanguage;
+                userLang = userLang.split('-')[0];
+                
+                // Map browser language to our supported languages
+                var langMap = {
+                    'ca': '/ca/',
+                    'es': '/ca/',  // Spanish users to Catalan
+                    'ay': '/ay/',  // Aymara
+                    'en': '/en/'   // Default to English for others
+                };
+                
+                // Redirect to appropriate language or default to Catalan
+                window.location.replace(langMap[userLang] || '/ca/');
+            }
+        })();
+    </script>
 </head>
 <body>
     {% include lang-switcher.html %}
