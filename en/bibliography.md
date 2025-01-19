@@ -1,11 +1,30 @@
 ---
 layout: default
-title: Bibliography - Aymara & AI
+title: Bibliography and Videography - Aymara & AI
 lang: en
 ref: bibliography
 ---
 
 # Aymara & AI Resources
+
+<style>
+.video-container {
+    position: relative;
+    padding-bottom: 28.125%;
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 20px;
+    max-width: 280px;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
 
 ## Software Projects
 - [Atamiri Translation System](http://www.atamiri.cc/en/AtamiriSolution/History/index.html) - Ivan Guzman de Rojas' pioneering work
@@ -21,10 +40,31 @@ ref: bibliography
 - [Aymara Cultural Information](https://www.folklore.earth/culture/aymara/)
 
 ## Videos & Presentations
-### Technical Presentations
-- [Ancient Computer Algorithm Found in Pre-Inca Language](https://www.youtube.com/watch?v=EXxauprYQEA)
-- [Why First Languages AI Can Be a Reality](https://www.youtube.com/watch?v=Omp3X-FXdLs)
-- [Can AI help preserve indigenous languages?](https://www.youtube.com/watch?v=pG9oHJWdJnY)
 
-### Cultural & Educational Content
-- [Living the Language - Bolivia: The Aymara](https://www.youtube.com/watch?v=mrAFT4NbG7k)
+### Ancient Computer Algorithm Found in Pre-Inca Language
+A fascinating documentary about the discovery of computational algorithms in the pre-Incan Aymara language.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/EXxauprYQEA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Why First Languages AI Can Be a Reality
+Presentation about how AI can be adapted for first languages.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/Omp3X-FXdLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Can AI help preserve indigenous languages?
+Analysis of how AI can help preserve indigenous languages.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/pG9oHJWdJnY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Living the Language - Bolivia: The Aymara
+Documentary about daily life of Aymara speakers in Bolivia.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/mrAFT4NbG7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
