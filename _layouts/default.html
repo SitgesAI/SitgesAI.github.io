@@ -1,48 +1,27 @@
 <!DOCTYPE html>
-<html lang="{{ page.lang | default: site.lang | default: "ca" }}">
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>{{ page.title | default: site.title }}</title>
     <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
     <style>
-        .lang-switcher {
+        .language-switcher {
             text-align: right;
             padding: 1em;
         }
-        .lang-switcher a {
+        .language-switcher a {
             margin-left: 1em;
             text-decoration: none;
-            color: #666;
+            color: #1e6bb8;
         }
-        .lang-switcher a.active {
-            color: #000;
+        .language-switcher a.active {
             font-weight: bold;
         }
     </style>
-    <script>
-        // Redirect to preferred language
-        (function() {
-            if (window.location.pathname === '/') {
-                var userLang = navigator.language || navigator.userLanguage;
-                userLang = userLang.split('-')[0];
-                
-                // Map browser language to our supported languages
-                var langMap = {
-                    'ca': '/ca/',
-                    'es': '/ca/',  // Spanish users to Catalan
-                    'ay': '/ay/',  // Aymara
-                    'en': '/en/'   // Default to English for others
-                };
-                
-                // Redirect to appropriate language or default to Catalan
-                window.location.replace(langMap[userLang] || '/ca/');
-            }
-        })();
-    </script>
 </head>
 <body>
-    {% include lang-switcher.html %}
+    {% include language-switcher.html %}
     <div class="container-lg px-3 my-5 markdown-body">
         {{ content }}
     </div>
