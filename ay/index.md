@@ -13,6 +13,7 @@ Jiwasaxa maya thakhi tantachatawa, ukana inteligencia artificial ukampi aymara a
 
 - [Qallta](index.md)
 - [Qillqatanaka](bibliography.md)
+- [Uñjañanaka](videos.md)
 - [Lurawinaka](https://github.com/SitgesAI/julius-chat-system)
 
 ## Jichha Lurawi
