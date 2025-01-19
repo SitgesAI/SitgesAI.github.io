@@ -12,6 +12,7 @@ Som un grup d'investigació centrat en la integració de la intel·ligència art
 ## Navegació
 
 - [Inici](index.md)
+- [Com la IA pot beneficiar-se de l'Aymara](ai-benefits.md)
 - [Bibliografia](bibliography.md)
 - [Vídeos](videos.md)
 - [Projectes](https://github.com/SitgesAI/julius-chat-system)
