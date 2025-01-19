@@ -12,6 +12,7 @@ Jiwasaxa maya thakhi tantachatawa, ukana inteligencia artificial ukampi aymara a
 ## Thakhinaka
 
 - [Qallta](index.md)
+- [Kunjamsa IA Aymarat yatiqañapa](ai-benefits.md)
 - [Qillqatanaka](bibliography.md)
 - [Uñjañanaka](videos.md)
 - [Lurawinaka](https://github.com/SitgesAI/julius-chat-system)
