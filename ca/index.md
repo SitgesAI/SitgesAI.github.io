@@ -13,6 +13,7 @@ Som un grup d'investigació centrat en la integració de la intel·ligència art
 
 - [Inici](index.md)
 - [Bibliografia](bibliography.md)
+- [Vídeos](videos.md)
 - [Projectes](https://github.com/SitgesAI/julius-chat-system)
 
 ## Projectes Actuals
