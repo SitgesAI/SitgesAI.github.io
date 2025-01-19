@@ -13,6 +13,7 @@ We are a research group focused on integrating artificial intelligence with indi
 
 - [Home](index.md)
 - [Bibliography](bibliography.md)
+- [Videos](videos.md)
 - [Projects](https://github.com/SitgesAI/julius-chat-system)
 
 ## Current Projects
