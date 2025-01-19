@@ -24,3 +24,8 @@ t:
     home: "Qallta"
     projects: "Lurawi"
     about: "Jiwasata"
+
+
+# Plugins
+plugins:
+  - jekyll-redirect-from
