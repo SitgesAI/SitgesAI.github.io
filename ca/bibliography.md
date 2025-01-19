@@ -1,11 +1,30 @@
 ---
 layout: default
-title: Bibliografia - Aymara & IA
+title: Bibliografia i Videografia - Aymara & IA
 lang: ca
 ref: bibliography
 ---
 
 # Recursos d'Aymara & IA
+
+<style>
+.video-container {
+    position: relative;
+    padding-bottom: 28.125%; /* 157/280 = 0.28125 */
+    height: 0;
+    overflow: hidden;
+    margin-bottom: 20px;
+    max-width: 280px;
+}
+
+.video-container iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+</style>
 
 ## Projectes de Software
 - [Sistema de Traducció Atamiri](http://www.atamiri.cc/en/AtamiriSolution/History/index.html) - Treball pioner d'Ivan Guzman de Rojas
@@ -21,10 +40,31 @@ ref: bibliography
 - [Informació Cultural Aymara](https://www.folklore.earth/culture/aymara/)
 
 ## Vídeos i Presentacions
-### Presentacions Tècniques
-- [Algoritme Informàtic Antic Trobat en Llengua Pre-Inca](https://www.youtube.com/watch?v=EXxauprYQEA)
-- [Per què la IA en Llengües Primeres pot ser una Realitat](https://www.youtube.com/watch?v=Omp3X-FXdLs)
-- [Pot la IA ajudar a preservar les llengües indígenes?](https://www.youtube.com/watch?v=pG9oHJWdJnY)
 
-### Contingut Cultural i Educatiu
-- [Vivint la Llengua - Bolívia: Els Aymara](https://www.youtube.com/watch?v=mrAFT4NbG7k)
+### Algoritme Informàtic Antic Trobat en Llengua Pre-Inca
+Un fascinant documental sobre el descobriment d'algoritmes computacionals en la llengua Aymara pre-Inca.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/EXxauprYQEA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Per què la IA en Llengües Primeres pot ser una Realitat
+Presentació sobre com la IA pot ser adaptada per llengües primeres.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/Omp3X-FXdLs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Pot la IA ajudar a preservar les llengües indígenes?
+Anàlisi de com la IA pot ajudar en la preservació de llengües indígenes.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/pG9oHJWdJnY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+### Vivint la Llengua - Bolívia: Els Aymara
+Documental sobre la vida quotidiana dels parlants d'Aymara a Bolívia.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/mrAFT4NbG7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
