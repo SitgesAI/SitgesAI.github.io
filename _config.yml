@@ -3,3 +3,24 @@ title: SitgesAI Research
 description: AI Research & Development Projects
 baseurl: ""
 url: "https://sitgesai.github.io"
+
+# Multilingual settings
+languages: ["ca", "en", "ay"]
+default_lang: "ca"
+exclude_from_localization: ["assets", "css", "js"]
+parallel_localization: true
+
+# Navigation
+t:
+  ca:
+    home: "Inici"
+    projects: "Projectes"
+    about: "Sobre Nosaltres"
+  en:
+    home: "Home"
+    projects: "Projects"
+    about: "About"
+  ay:
+    home: "Qallta"
+    projects: "Lurawi"
+    about: "Jiwasata"
