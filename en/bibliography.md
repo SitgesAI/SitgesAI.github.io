@@ -68,3 +68,12 @@ Documentary about daily life of Aymara speakers in Bolivia.
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/mrAFT4NbG7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Aymara: The Language that Changes Our Perception of Time
+A fascinating video about how Aymara conceptualizes time uniquely, with the future behind and the past in front.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/3nM5R23eGkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
