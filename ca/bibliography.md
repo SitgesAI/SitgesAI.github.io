@@ -68,3 +68,12 @@ Documental sobre la vida quotidiana dels parlants d'Aymara a Bolívia.
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/mrAFT4NbG7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Aymara: La Llengua que Canvia la Nostra Percepció del Temps
+Un fascinant vídeo sobre com l'Aymara conceptualitza el temps de manera única, amb el futur darrere i el passat davant.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/3nM5R23eGkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
