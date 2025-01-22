@@ -68,3 +68,12 @@ Bolivia markana aymara arsusirinakana sapa uru jakawi.
 <div class="video-container">
 <iframe src="https://www.youtube.com/embed/mrAFT4NbG7k" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+
+### Aymara: Pachax Amuyawisar Mayjt'ayiri Aru
+Maya suma uñjawi kunjamtsa Aymara arux pacha amuyawi mayjt'ayi, jutir pachax qhiparu uñtata, nayra pachax nayrar uñtata.
+
+<div class="video-container">
+<iframe src="https://www.youtube.com/embed/3nM5R23eGkE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+
